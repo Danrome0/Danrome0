@@ -22,6 +22,8 @@ I'm a mechanical engineering student at the Universidad Nacional de Colombia, Me
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"/>
+  <img width="12" />
 </span>
 
 ###
